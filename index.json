@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "name": "caramel's valenced plugins",
+  "description": "more palettes, more fonts, and Rosé Pine theme.",
+  "plugins": {
+    "caramel.fontpacks.more-fonts": {
+      "name": "more fonts",
+      "description": "a few font packs for Valenced.",
+      "author": "caramel <295308882446647300>",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.fontpacks.more-fonts@1.0.0.zip",
+          "sha256": "a1ad6f527326a68b4006c785afe1adbc457c93bae87f18a0531914ad491f4edc",
+          "size": 1110619,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "caramel.themes.more-palletes": {
+      "name": "more palettes",
+      "description": "some simple monochromatic themes.",
+      "author": "caramel <295308882446647300>",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.themes.more-palletes@1.0.0.zip",
+          "sha256": "4d6e46295e07b9dad48bafec85309a5a1b759f68b46ca01a43f9daa8d4538cd5",
+          "size": 3570,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
+    "caramel.themes.rose-pine": {
+      "name": "Rosé Pine",
+      "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
+      "author": "caramel <295308882446647300>",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.themes.rose-pine@1.0.0.zip",
+          "sha256": "e4611519f0ae12826ad10db6638ab28d3d5b7440c960fcd9c5754f44cfd35a31",
+          "size": 3705,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    }
+  }
+}
