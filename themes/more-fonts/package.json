@@ -1,0 +1,6 @@
+{
+	"name": "@caramel3625/more-fonts",
+	"devDependencies": {
+		"@valenced/themes-api": "workspace:*"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"format": 1,
+	"id": "caramel.fontpacks.more-fonts",
+	"name": "more fonts",
+	"description": "a few font packs for Valenced.",
+	"author": "caramel <295308882446647300>",
+	"version": "1.0.0",
+	"dependencies": {
+		"valenced.api": {
+			"version": ">=1 <2"
+		},
+		"discord": {
+			"version": "*"
+		},
+		"valenced.api.themes": {
+			"version": "*"
+		}
+	},
+	"dist": {
+		"script": "index.js"
+	}
+}
