@@ -16,6 +16,5 @@
 <img width="380" alt="Screenshot_20261028-192502" src="https://github.com/user-attachments/assets/3368fbe3-ada5-474f-bc4f-55cf4d50a690" />
 
 Rosé Pine Moon
-
 <img width="380" alt="Screenshot_20261028-192526" src="https://github.com/user-attachments/assets/b6bed6a9-4637-4f47-a246-f5e9d778f74e" />
 <img width="380" alt="Screenshot_20261028-192539" src="https://github.com/user-attachments/assets/42882506-f9c5-4717-948c-906430a413a3" />
