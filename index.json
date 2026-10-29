@@ -29,6 +29,32 @@
         }
       }
     },
+    "caramel.themes.more-palettes": {
+      "name": "more palettes",
+      "description": "some simple monochromatic themes.",
+      "author": "caramel <295308882446647300>",
+      "channels": {
+        "latest": "1.0.0"
+      },
+      "versions": {
+        "1.0.0": {
+          "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.themes.more-palettes@1.0.0.zip",
+          "sha256": "d59a988282269cea4b8bc43272a3401ee0c3967c3f9e011409933cb4362bad69",
+          "size": 3567,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        }
+      }
+    },
     "caramel.themes.more-palletes": {
       "name": "more palettes",
       "description": "some simple monochromatic themes.",
