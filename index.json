@@ -34,7 +34,7 @@
       "description": "some simple monochromatic themes.",
       "author": "caramel <295308882446647300>",
       "channels": {
-        "latest": "1.0.1"
+        "latest": "1.0.2"
       },
       "versions": {
         "1.0.0": {
@@ -57,6 +57,22 @@
           "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.themes.more-palettes@1.0.1.zip",
           "sha256": "7c3436a770ac5fe347d3fc70d31bcb77f17e153a64b6def8eaf8eb0e3a521d2e",
           "size": 3682,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.2": {
+          "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.themes.more-palettes@1.0.2.zip",
+          "sha256": "5474085b366321b2bb8650563b52078bccba3e17ff0fdd9e2a8fc71945789c9c",
+          "size": 3736,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
