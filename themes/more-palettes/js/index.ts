@@ -5,7 +5,7 @@ export default plugin({
 	start({ themes }) {
 		themes.registerGroup('more-palettes', {
 			name: 'more palettes',
-			description: 'some simple monochromatic themes',
+			description: 'some simple monochromatic themes. designed to be used with "Dark" theme (not "Ash" or "Onyx").',
 		})
 
 		// If you need access to Discord's token names, do it in `init` or `start`!
