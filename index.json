@@ -92,8 +92,7 @@
       "description": "All natural pine, faux fur and a bit of soho vibes for the classy minimalist",
       "author": "caramel <295308882446647300>",
       "channels": {
-        "latest": "1.1.0",
-        "beta": "1.1.1-beta0"
+        "latest": "1.2.0"
       },
       "versions": {
         "1.0.0": {
@@ -180,6 +179,22 @@
           "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.themes.rose-pine@1.1.1-beta0.zip",
           "sha256": "e03d5e112b328d609b753c04b559eca90da30d94c9498a751fa4e2ba65db1e88",
           "size": 12348,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.2.0": {
+          "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.themes.rose-pine@1.2.0.zip",
+          "sha256": "b6b613380f44b03cd4f6ba1df25d13a64aef91c77355452fd5d8b6e1351dd014",
+          "size": 12363,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
