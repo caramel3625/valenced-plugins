@@ -4,7 +4,7 @@
 	"name": "more palettes",
 	"description": "some simple monochromatic themes.",
 	"author": "caramel <295308882446647300>",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"dependencies": {
 		"valenced.api": {
 			"version": ">=1 <2"
