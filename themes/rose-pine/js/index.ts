@@ -969,8 +969,9 @@ export default plugin({
 			name: 'Rosé Pine Icons',
 			description: 'Replaces the Discord icon in certain places with the Rosé Pine icon.',
 			icons: {
+				ChatIcon: 'assets/icons/icon.png',
 				ClydeIcon: 'assets/icons/icon.png',
-				logo: 'assets/icons/icon1.png'
+				logo: 'assets/icons/icon1.png',
 			},
 		})
 	}
