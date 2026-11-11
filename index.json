@@ -77,7 +77,7 @@
       "author": "caramel <295308882446647300>",
       "channels": {
         "latest": "1.0.0",
-        "beta": "1.0.2-beta"
+        "beta": "1.0.2-beta2"
       },
       "versions": {
         "1.0.0": {
@@ -116,6 +116,22 @@
           "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.themes.rose-pine@1.0.2-beta.zip",
           "sha256": "596ec96f2395c7e951ea2535aa270373e4b8e048e60e901f1516aaf5ec8fc6f8",
           "size": 48837,
+          "dependencies": {
+            "valenced.api": {
+              "version": ">=1 <2"
+            },
+            "discord": {
+              "version": "*"
+            },
+            "valenced.api.themes": {
+              "version": "*"
+            }
+          }
+        },
+        "1.0.2-beta2": {
+          "url": "https://caramel3625.github.io/valenced-plugins/pool/caramel.themes.rose-pine@1.0.2-beta2.zip",
+          "sha256": "94fd60f3d18745ba95b8a7ddcb26a7ec6b3be0ec0d86d28c6f1da10126de86a3",
+          "size": 10586,
           "dependencies": {
             "valenced.api": {
               "version": ">=1 <2"
