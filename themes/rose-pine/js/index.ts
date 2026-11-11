@@ -5,7 +5,7 @@ export default plugin({
 	start({ themes }) {
 		themes.registerGroup('rose-pine', {
 			name: 'Rosé Pine',
-			description: 'All natural pine, faux fur and a bit of soho vibes for the classy minimalist',
+			description: 'All natural pine, faux fur and a bit of soho vibes for the classy minimalist. Designed to be used with "Dark" theme (not "Ash" or "Onyx")',
 		})
 
 		// If you need access to Discord's token names, do it in `init` or `start`!
