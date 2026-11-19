@@ -10,7 +10,8 @@
 
 <img width="480" alt="IMG_20261028_192356" src="https://github.com/user-attachments/assets/7ba63385-6444-4d2c-9eb3-f51d8893c3cf" />
 
-# Rosé Pine
+# Rosé Pine Theme
+Rosé Pine
 
 <img width="380" alt="Screenshot_20261028-192445" src="https://github.com/user-attachments/assets/42d3ca07-4b35-4a66-9c59-c979cef5858f" />
 <img width="380" alt="Screenshot_20261028-192502" src="https://github.com/user-attachments/assets/3368fbe3-ada5-474f-bc4f-55cf4d50a690" />
