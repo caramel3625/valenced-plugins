@@ -1,3 +1,4 @@
+### caramel's valenced plugin repository. install link: https://caramel3625.github.io/valenced-plugins/
 
 # more palettes
 ### more purple  
